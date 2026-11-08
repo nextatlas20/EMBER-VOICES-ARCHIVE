@@ -1,0 +1,38 @@
+as_of: "2065-05-20"
+interview_count: 3
+total_minutes: 168
+collections:
+  - name: "Dockworkers"
+    interview_count: 2
+    total_minutes: 143
+  - name: "Orchard Keepers"
+    interview_count: 1
+    total_minutes: 25
+interviews:
+  - sequence: 1
+    interview_id: "OH-ASTER"
+    collection: "Dockworkers"
+    speaker: "Mara Venn"
+    recorded_on: "2058-11-02"
+    duration_min: 44
+    decision_id: "RC-001"
+    decided_on: "2065-04-10"
+    release_on: "2065-05-01"
+  - sequence: 2
+    interview_id: "OH-CEDAR"
+    collection: "Dockworkers"
+    speaker: "Wrong Revision"
+    recorded_on: "2060-01-15"
+    duration_min: 99
+    decision_id: "RC-003"
+    decided_on: "2065-05-18"
+    release_on: "2065-05-20"
+  - sequence: 3
+    interview_id: "OH-GLADE"
+    collection: "Orchard Keepers"
+    speaker: "Eda Moss"
+    recorded_on: "2059-06-30"
+    duration_min: 25
+    decision_id: "RC-007"
+    decided_on: "2065-05-20"
+    release_on: "2065-05-20"
