@@ -1,0 +1,14 @@
+interview_id|collection|speaker|recorded_on|duration_min|digitized|revision
+OH-ASTER| Dockworkers |Mara Venn|2058-11-02|42|yes|1
+OH-BRICK|Orchard Keepers|Ivo Pell|2061-03-14|31|yes|1
+OH-CEDAR|Dockworkers|Nell Arco|2060-01-15|27|yes|1
+OH-DUSKY|Weavers|Sami Oru|2057-08-09|55|no|1
+OH-FLINT|Weavers|Toma Reis|2062-12-21|38|yes|1
+OH-GLADE|Orchard Keepers|Eda Moss|2059-06-30|25|yes|1
+OH-ASTER|Dockworkers|Mara Venn|2058-11-02|44|yes|2
+OH-BRICK|Orchard Keepers|Ivo Pell|2061-03-14|30|yes|0
+OH-CEDAR|Dockworkers|Wrong Revision|2060-01-15|99|yes|1
+BAD-ID|Weavers|No Record|2060-05-05|10|yes|3
+OH-HONEY|Field Notes|Rae Kim|2063-02-30|20|yes|1
+OH-IVORY|Field Notes|Pia Sol|2063-04-01|20|YES|1
+OH-JUNIP|Field|Broken|2063-04-01|twenty|yes|1

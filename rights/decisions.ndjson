@@ -1,0 +1,14 @@
+{"decision_id":"RC-001","interview_id":"OH-ASTER","decided_on":"2065-04-10","outcome":"approved","release_on":"2065-05-01","revision":1}
+{"decision_id":"RC-002","interview_id":"OH-BRICK","decided_on":"2065-04-12","outcome":"approved","release_on":"2065-06-01","revision":1}
+{"decision_id":"RC-003","interview_id":"OH-CEDAR","decided_on":"2065-03-01","outcome":"denied","release_on":null,"revision":1}
+{"decision_id":"RC-003","interview_id":"OH-CEDAR","decided_on":"2065-05-18","outcome":"approved","release_on":"2065-05-20","revision":2}
+{"decision_id":"RC-004","interview_id":"OH-FLINT","decided_on":"2065-05-01","outcome":"approved","release_on":"2065-05-01","revision":1}
+{"decision_id":"RC-005","interview_id":"OH-FLINT","decided_on":"2065-05-10","outcome":"denied","release_on":null,"revision":1}
+{"decision_id":"RC-006","interview_id":"OH-DUSKY","decided_on":"2065-04-15","outcome":"approved","release_on":"2065-04-20","revision":1}
+{"decision_id":"RC-007","interview_id":"OH-GLADE","decided_on":"2065-05-20","outcome":"approved","release_on":"2065-05-20","revision":1}
+{"decision_id":"RC-008","interview_id":"OH-GLADE","decided_on":"2065-05-20","outcome":"approved","release_on":"2065-05-18","revision":1}
+{"decision_id":"RC-009","interview_id":"OH-ASTER","decided_on":"2065-05-21","outcome":"denied","release_on":null,"revision":1}
+{"decision_id":"RC-010","interview_id":"OH-NONES","decided_on":"2065-04-01","outcome":"approved","release_on":"2065-04-02","revision":1}
+{"decision_id":"RC-011","interview_id":"OH-BRICK","decided_on":"2065-04-30","outcome":"approved","release_on":"2065-05-10","revision":true}
+{"decision_id":"RC-012","interview_id":"OH-ASTER","decided_on":"2065-13-01","outcome":"approved","release_on":"2065-05-01","revision":1}
+not-json
